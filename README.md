@@ -1,2 +1,1 @@
-# Academic-project
-Developing an Autonomous Driving Agent in MetaDrive using PPO.
+# Developed and trained an autonomous driving agent in the MetaDrive simulator using the Proximal Policy Optimization (PPO) algorithm, focusing on decision-making and fault tolerance in dynamic driving environments.
